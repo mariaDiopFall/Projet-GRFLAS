@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    list-style: none;
+  }
+/* pour la barre de navigation */
+
+
+.header {
+    overflow: hidden;
+    background-color: #ffffff;
+    padding:25px 10px ;
+  }
+  #logo
+{
+    width: 15%;
+    float: left;
+}
+
+
+    body {
+        color:rgba(255, 255, 255, 0.888);
+        margin: 0;
+        font-style: normal;
+        font-weight: bold;
+        font-size: medium;
+        background-color:white;
+        background-image:url(fond_etat.webp);
+        }
+
+.entete{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    font-style: italic;
+}
+.slog{
+    color: white;
+    text-align: center;
+}
+
